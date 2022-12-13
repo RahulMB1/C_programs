@@ -1,3 +1,7 @@
+/* Develop a program to solve simple computational problems using arithmetic
+expressions and use of each operator leading to simulation of a commercial calculator.
+(No built-in-math function) */
+
 #include<stdio.h>
 int main(){
      int a,b;
